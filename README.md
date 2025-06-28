@@ -21,9 +21,6 @@ A simple and animated To-Do List desktop app built using **WPF (.NET)** with the
 - MVVM (Model-View-ViewModel) pattern
 - XAML UI styling and triggers
 
-## 📸 Screenshot
-
-*(Insert screenshot here if available)*
 
 ## 🚀 Getting Started
 
